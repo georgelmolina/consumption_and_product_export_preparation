@@ -1,0 +1,22 @@
+# Consumption project path.
+consumption_dataset_ready_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\import\\consumption_dataset_ready.xlsx"
+
+# Products project path.
+products_years_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\import\\products_years.csv"
+
+# Processed intermediate outputs.
+all_unique_products_comparison_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\processed\\all_unique_products_comparison.xlsx"
+products_only_in_prod_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\processed\\products_only_in_prod.xlsx"
+
+# Export outputs.
+consumption_db_xlsx_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\export\\consumption_db.xlsx"
+daily_deliveries_db_xlsx_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\export\\daily_deliveries_db.xlsx"
+consumption_db_csv_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\export\\consumption_db.csv"
+daily_deliveries_db_csv_path: "C:\\Users\\User\\Desktop\\Data Projects\\Workspaces\\consumption_and_product_workspace\\consumption_and_products_project\\data\\export\\daily_deliveries_db.csv"
+
+#Adding zone column path.
+consumption_db_pbi_path: ..\\data\\import\\consumption_db_pbi.csv
+daily_deliveries_db_pbi_path: ..\\data\\import\\daily_deliveries_db_pbi.csv
+
+consumption_db_pbi_csv_path: ..\\data\\export\\consumption_db_pbi.csv
+daily_deliveries_db_pbi_csv_path: ..\\data\\export\\daily_deliveries_db_pbi.csv
